@@ -1,1 +1,1 @@
-# Auto-Readme-git
+Shows "hello" message
